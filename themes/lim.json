@@ -13,18 +13,24 @@
         "border.disabled": "#C063F220",
         "border.focused": "#C063F260",
         "border.selected": "#C063F260",
+        "drop_target.background": "#89898950",
         "editor.active_line.background": "#E58B1430",
         "editor.background": "#0A0A0A",
         "editor.gutter.background": "#0A0A0A",
         "editor.highlighted_line.background": "#FFD09750",
         "editor.subheader.background": "#0A0A0A",
         "element.background": "#0A0A0A",
+        "elevated_surface.background": "#0E0E0E",
         "ghost_element.background": "#B992CE50",
+        "panel.background": "#0A0A0A",
+        "scrollbar.thumb.background": "#E0B6F940",
+        "scrollbar.thumb.hover_background": "#E0B6F940",
+        "scrollbar.track.background": "#0A0A0A",
         "status_bar.background": "#89898930",
         "tab.active_background": "#E58B1430",
-        "scrollbar.thumb.background": "#E0B6F940",
-        "scrollbar.track.background": "#0A0A0A",
-        "scrollbar.track.border": "#C063F240"
+        "tab.inactive_background": "#0A0A0A",
+        "tab_bar.background": "#0A0A0A",
+        "title_bar.background": "#0A0A0A"
       }
     }
   ]
