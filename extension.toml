@@ -1,0 +1,7 @@
+id = "lim"
+name = "Less Is More"
+version = "0.0.1"
+schema_version = 1
+authors = ["Glen Holcomb <glen@leakybucket.dev>"]
+description = "Minimalist theme with a strong focus on your code -- Less is More"
+repository = "https://github.com/LeakyBucket/lim"
