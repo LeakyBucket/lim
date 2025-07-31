@@ -1,0 +1,26 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "author": "Glen Holcomb <glen@leakybucket.dev>",
+  "name": "Less is More",
+  "themes": [
+    {
+      "appearance": "dark",
+      "name": "Less is More",
+      "style": {
+        "background": "#0A0A0A",
+        "background.appearance": "opaque",
+        "editor.active_line.background": "#E58B1430",
+        "editor.background": "#0A0A0A",
+        "editor.gutter.background": "#0A0A0A",
+        "editor.highlighted_line.background": "#FFD09750",
+        "editor.subheader.background": "#0A0A0A",
+        "element.background": "#0A0A0A",
+        "ghost_element.background": "#B992CE50",
+        "status_bar.background": "#89898930",
+        "tab.active_background": "#E58B1430",
+        "scrollbar.thumb.background": "#E0B6F940",
+        "scrollbar.track.background": "#0A0A0A",
+      }
+    }
+  ]
+}
