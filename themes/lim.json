@@ -28,6 +28,7 @@
         "element.active": "#0a0a0a",
         "element.background": "#0a0a0a",
         "elevated_surface.background": "#0e0e0e",
+        "error.background": "#0a0a0a",
         "ghost_element.background": "#b992ce50",
         "hint.background": "#0a0a0a",
         "info.background": "#0a0a0a",
@@ -350,42 +351,42 @@
             "font_weight": null
           },
           "comment": {
-            "color": "#7c7f9370",
+            "color": "#a5899c",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#7c7f9370",
+            "color": "#a5899c",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.documentation": {
-            "color": "#7c7f9370",
+            "color": "#a5899c",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.error": {
-            "color": "#d20f3970",
+            "color": "#d20f3940",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.warning": {
-            "color": "#df8e1d70",
+            "color": "#df8e1d40",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.hint": {
-            "color": "#1e66f570",
+            "color": "#1e66f540",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.todo": {
-            "color": "#dd787870",
+            "color": "#dd787840",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.note": {
-            "color": "#dc8a7870",
+            "color": "#dc8a7840",
             "font_style": "italic",
             "font_weight": null
           },
@@ -515,7 +516,7 @@
             "font_weight": null
           },
           "predoc": {
-            "color": "#d20f3970",
+            "color": "#d20f3940",
             "font_style": null,
             "font_weight": null
           },
@@ -525,12 +526,12 @@
             "font_weight": null
           },
           "tag.doctype": {
-            "color": "#8839ef70",
+            "color": "#8839ef40",
             "font_style": null,
             "font_weight": null
           },
           "string.doc": {
-            "color": "#17929970",
+            "color": "#17929940",
             "font_style": "italic",
             "font_weight": null
           },
