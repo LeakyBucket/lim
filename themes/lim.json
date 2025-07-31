@@ -26,6 +26,8 @@
         "element.background": "#0a0a0a",
         "elevated_surface.background": "#0e0e0e",
         "ghost_element.background": "#b992ce50",
+        "hint.background": "#0a0a0a",
+        "info.background": "#0a0a0a",
         "panel.background": "#0a0a0a",
         "scrollbar.thumb.background": "#c063f240",
         "scrollbar.thumb.border": "#c063f260",
@@ -33,10 +35,13 @@
         "scrollbar.track.background": "#0a0a0a",
         "scrollbar.track.border": "#c063f240",
         "status_bar.background": "#89898930",
+        "surface.background": "#0a0a0a",
         "tab.active_background": "#e58b1430",
         "tab.inactive_background": "#0a0a0a",
         "tab_bar.background": "#0a0a0a",
         "title_bar.background": "#0a0a0a",
+        "toolbar.background": "#0a0a0a",
+        "warning.background": "#0a0a0a",
         "syntax": {
           "variable": {
             "color": "#4c4f69",
