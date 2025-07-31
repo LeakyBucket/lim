@@ -25,6 +25,7 @@
         "editor.highlighted_line.background": "#ffd09750",
         "editor.line_number": "#a5a5a5",
         "editor.subheader.background": "#0a0a0a",
+        "element.active": "#0a0a0a",
         "element.background": "#0a0a0a",
         "elevated_surface.background": "#0e0e0e",
         "ghost_element.background": "#b992ce50",
